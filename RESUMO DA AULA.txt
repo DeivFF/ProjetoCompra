@@ -1,0 +1,21 @@
+https://www.youtube.com/watch?v=fBiDX4zLAaE
+
+Formulas utilizadas no dax
+
+CALENDARAUTO() - Cria um calendário com base na data mais antiga e mais recente que as tabelas possuem
+STARTOFMONTH - Pega sempre o mês de uma data, independente da data.
+RELATED - Pegar informação de uma tabela para outra.
+SUMX - Retorna a soma de uma expressão
+AVERAGEX - Retorna a média de uma expressão
+
+CLASSIFICAR MÊS DE ACORDO COM A ORDEM.
+
+KPI a ser analisado
+1 - Faturamento com desconto, Faturamento sem desconto
+2 - LEAD TIME - Prazo médio da data da compra até a entrega do produto
+3 - Atraso médio entre a previsão da entrega e a entrega.
+4 - Saving - Valor economizado (original - valor com desconto)
+
+SEGMENTADOR DE DADOS:
+
+Por Ano, Por Comprador, Por Fornecedor.
